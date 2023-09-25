@@ -13,7 +13,7 @@
 - 자연에빠지다 (캠핑장 예약사이트) : 개인프로젝트 ▶ <a href="https://github.com/lms8262/booktving.git">git repository</a> <br>
 - EZEN 북티빙시대 (온라인 도서대여 사이트) : 팀프로젝트 ▶ <a href="https://github.com/bohyun87/camping-web-page-Spring_JPA-.git">git repository</a> <br>
 <div style="display:flex;">
-  <div width="300" height="400" style="overflow: hidden;">
+  <div style="overflow: hidden; width: 300px; height: 400px;">
     <img src="https://github.com/bohyun87/bohyun87/assets/130732028/aa4a7509-eef5-4297-9a97-d5c4c5043b38" height="100%" />
   </div>
   <div width="300" height="400">
