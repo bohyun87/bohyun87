@@ -19,5 +19,5 @@
 <img src="https://github.com/bohyun87/bohyun87/assets/130732028/aa4a7509-eef5-4297-9a97-d5c4c5043b38" height="400" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/bohyun87/bohyun87/assets/130732028/183970e1-702a-4bff-8a7b-0aa9532bc90a" height="400" />
 <br />
 ------------
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bohyun87show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bohyun87&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bohyun87&layout=compact)](https://github.com/delay-100/github-readme-stats)
